@@ -1,0 +1,1 @@
+5bfd803eff77e500990cb555e76d771403610c2f7b2c115a61ac1ae5abc2b2f0  ipfs_contract.wasm
